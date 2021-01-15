@@ -1,9 +1,10 @@
 package user
 
 import (
+	"backend-sample-la/models"
+	"backend-sample-la/requests"
+
 	"github.com/gin-gonic/gin"
-	"gitlab.com/bri-bridge/backend-bridge-api/models"
-	"gitlab.com/bri-bridge/backend-bridge-api/requests"
 )
 
 // IUserUsecase ..

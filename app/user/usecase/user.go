@@ -9,7 +9,6 @@ import (
 
 	"backend-sample-la/app/user"
 	userInterfaces "backend-sample-la/app/user"
-	"backend-sample-la/cache"
 	"backend-sample-la/helpers"
 	"backend-sample-la/models"
 	"backend-sample-la/requests"

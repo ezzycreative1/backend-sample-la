@@ -5,9 +5,10 @@ import (
 	"log"
 	"time"
 
+	"backend-sample-la/database"
+	"backend-sample-la/models"
+
 	"github.com/google/uuid"
-	"gitlab.com/bri-bridge/backend-bridge-api/database"
-	"gitlab.com/bri-bridge/backend-bridge-api/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

@@ -1,8 +1,8 @@
 package user
 
 import (
-	"gitlab.com/bri-bridge/backend-bridge-api/models"
-	"gitlab.com/bri-bridge/backend-bridge-api/requests"
+	"backend-sample-la/models"
+	"backend-sample-la/requests"
 )
 
 // Repository ..
